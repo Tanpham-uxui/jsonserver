@@ -8,7 +8,8 @@
             "musician": "Teddy, Bekuh Boom, 24 & R.Tee",
             "audio": "https://res.cloudinary.com/dqi4kar06/video/upload/v1701942355/qokdmrqtfczingr7b8cn.mp3",
             "thumbnail": "https://res.cloudinary.com/dqi4kar06/image/upload/v1701942353/abq48y7npcdy8alje4f0.jpg"
-        },
+        }
+        ,
         {
         "id": 2,
         "songName": "A man without love",
@@ -53,6 +54,6 @@
         "musician": "Hugo Peretti, Luigi Creatore & George David Weiss",
         "audio": "https://res.cloudinary.com/dqi4kar06/video/upload/v1702091469/t4nt1zjfuvlq1gejkksl.mp3",
         "thumbnail": "https://res.cloudinary.com/dqi4kar06/image/upload/v1702091468/xperbzy0bjnqatpicvyp.jpg"
-        },
+        }
     ]
 }
