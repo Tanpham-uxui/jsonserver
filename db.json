@@ -17,6 +17,42 @@
         "musician": "Roberto Livraghi & Charles Blackwell",
         "audio": "https://res.cloudinary.com/dqi4kar06/video/upload/v1702035072/oonqrpak54kl34mzfa4i.mp3",
         "thumbnail": "https://res.cloudinary.com/dqi4kar06/image/upload/v1702035069/xgpftfmruvsyc5ukiizf.webp"
-    }
+        },
+        {
+        "id": 3,
+        "songName": "Human",
+        "artist": "Rag'n'Bone Man",
+        "album": "Human",
+        "musician": "Jamie Hartman, Rory Graham & Two Inch Punch",
+        "audio": "https://res.cloudinary.com/dqi4kar06/video/upload/v1702035072/oonqrpak54kl34mzfa4i.mp3",
+        "thumbnail": "https://res.cloudinary.com/dqi4kar06/image/upload/v1702091329/wifqbkye82jxaqsz1sm0.jpg"
+        },
+        {
+        "id": 4,
+        "songName": "I Ain't Worried",
+        "artist": "OneRepublic",
+        "album": "Young Folks",
+        "musician": "Ryan Tedder, Brent Kutzle",
+        "audio": "https://res.cloudinary.com/dqi4kar06/video/upload/v1702091414/iu9btkc3vss5dir60btl.mp3",
+        "thumbnail": "https://res.cloudinary.com/dqi4kar06/image/upload/v1702091413/c5d8uglr9r3e5cmjnzdi.webp"
+        },
+        {
+        "id": 5,
+        "songName": "Careless Whisper",
+        "artist": "George Michael",
+        "album": "Make It Big",
+        "musician": "George Michael & Andrew Ridgeley",
+        "audio": "https://res.cloudinary.com/dqi4kar06/video/upload/v1702091453/i00z4mbaafysibhvqlyx.mp3",
+        "thumbnail": "https://res.cloudinary.com/dqi4kar06/image/upload/v1702091452/hytcq3vn0gutwklmfmqe.jpg"
+        },
+        {
+        "id": 6,
+        "songName": "Can't Help Falling in Love",
+        "artist": "Andrea Bocelli ",
+        "album": "Can't Help Falling in Love",
+        "musician": "Hugo Peretti, Luigi Creatore & George David Weiss",
+        "audio": "https://res.cloudinary.com/dqi4kar06/video/upload/v1702091469/t4nt1zjfuvlq1gejkksl.mp3",
+        "thumbnail": "https://res.cloudinary.com/dqi4kar06/image/upload/v1702091468/xperbzy0bjnqatpicvyp.jpg"
+        },
     ]
 }
